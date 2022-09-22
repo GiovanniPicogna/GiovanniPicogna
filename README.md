@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Giovanni
+- An italian :it: astrophysicist :sparkles: working in Munich (Germany) :de:
 
-<!--
-**GiovanniPicogna/GiovanniPicogna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My research interests are:
+  - planet formation :earth_africa:
+  - star-planet interaction :dizzy:
+  - binary stars :sparkles:
+- My research tools are:
+  - hydrodynamical simulations
+  - radiative transfer models
+- 🌱 I’m currently learning machine learning and ways to apply it to my research field
+- 😄 Pronouns: he/him
